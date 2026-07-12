@@ -1,7 +1,9 @@
 ## Hey, I'm Ruben 👋
 ![Profile views](https://komarev.com/ghpvc/?username=rubenrekhi&color=blue&style=flat)
 
-Bachelors of Computer Science Hon. @ <img src="assets/uwaterloo.svg" height="22" align="absmiddle" alt=""/> University of Waterloo | Applied ML @ <img src="assets/shopify.svg" height="22" align="absmiddle" alt=""/> Shopify | Founding Eng #1 @ AI Fintech Startup
+Bachelors of Computer Science Hon. @ <img src="assets/uwaterloo.svg" height="22" align="absmiddle" alt=""/> University of Waterloo
+Applied ML @ <img src="assets/shopify.svg" height="22" align="absmiddle" alt=""/> Shopify
+Founding Eng #1 @ AI Fintech Startup
 
 <p align="left">
   <a href="mailto:r2rekhi@uwaterloo.com"><img src="https://img.shields.io/badge/-r2rekhi%40uwaterloo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="r2rekhi@uwaterloo.com"/></a>
